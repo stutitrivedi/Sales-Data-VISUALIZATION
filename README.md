@@ -2,10 +2,10 @@ This project presents an interactive Power BI dashboard that analyzes sales perf
 The goal of this project was to create a dynamic and accessible dashboard that provides a comprehensive view of sales performance for decision-makers. It integrates geographic, time series, and categorical analyses to deliver actionable insights.
 
 Insights
-Technology products contribute the largest share of total sales (~36%).
-Phones and Chairs are the top-performing sub-categories.
-Sales are strongest in the East and South regions.
-Seasonal trends and periodic sales spikes are visible throughout the dataset.
+- Technology products contribute the largest share of total sales (~36%).
+- Phones and Chairs are the top-performing sub-categories.
+- Sales are strongest in the East and South regions.
+- Seasonal trends and periodic sales spikes are visible throughout the dataset.
 
 Dashboard Features
 - Sales by State: Map view highlighting sales concentration across the U.S.
@@ -16,10 +16,10 @@ Dashboard Features
 - Key Performance Indicators (KPIs): Total Sales, Discount, Quantity, and Profit metrics.
 
 Tools Used
--Power BI Desktop
--Microsoft Bing Maps visualization
--Custom KPI Cards
--Donut and Bar Charts
+- Power BI Desktop
+- Microsoft Bing Maps visualization
+- Custom KPI Cards
+- Donut and Bar Charts
 
 
 
